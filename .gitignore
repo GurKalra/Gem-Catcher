@@ -1,0 +1,33 @@
+# Godot junk
+.import/
+.mono/
+.godot/
+GemCatcher.pck
+*.pck
+
+# C#/Mono build artifacts
+*.dll
+*.exe
+*.x86_64
+*.pdb
+*.mdb
+*.nupkg
+obj/
+bin/
+
+# Export builds
+build/
+Builds/
+data_*/
+
+# VS Code & IDE stuff
+.vscode/
+*.sln
+*.csproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lock file
+project.godot.lock
